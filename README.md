@@ -8,5 +8,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaSadough&theme=catppuccin_mocha&show_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[Portfolio](https://portfolio-tahacodes.vercel.app/)

@@ -37,6 +37,6 @@
 # 🧩 Architectural Practices
 
 - 🧠 **Domain-Driven Design (DDD):** Structuring complex business logic into clean, modular, and independent domains.
-- 🧪 **Test-Driven Development (TDD):** Ensuring reliability and maintainability through a disciplined Red → Green → Refactor process.
+- 🧪 **Test-Driven Development (TDD):** Ensuring reliability and maintainability through a disciplined Red → Green → Refactor process, utilizing table-driven techniques to structure comprehensive test cases.
 - ⚙️ **Microservice Architecture:** Designing distributed, event-driven systems with clear boundaries and scalability in mind.
 - 🔐 **Clean Code & SOLID Principles:** Maintaining long-term quality through clarity, separation of concerns, and simplicity.

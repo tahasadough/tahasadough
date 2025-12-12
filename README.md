@@ -40,7 +40,5 @@
 
 - 🧠 **Domain-Driven Design (DDD):** Structuring complex business logic into clean, modular, and independent domains.
 - 🧪 **Test-Driven Development (TDD):** Ensuring reliability and maintainability through a disciplined Red → Green → Refactor process.
-- ⚙️ **Microservice Architecture:** Designing distributed, event-driven systems with clear boundaries and scalability in mind.
+- ⚙️ **Adaptive System Architecture:** Architecting high-performance solutions tailored to product needs—ranging from efficient Modular Monoliths to Distributed Microservices for extreme scale.
 - 🔐 **Clean Code & SOLID Principles:** Maintaining long-term quality through clarity, separation of concerns, and simplicity.
-
-
